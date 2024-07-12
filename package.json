@@ -1,0 +1,7 @@
+{
+  "packageManager": "pnpm@9.5.0",
+  "devDependencies": {
+    "npm-check-updates": "16.14.20",
+    "prettier": "3.3.2"
+  }
+}
